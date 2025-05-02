@@ -52,7 +52,7 @@ Sou estudante de Engenharia da Computação, atualmente no sexto período. Ao lo
 ---
 
 ### 📫 Vamos nos conectar!
-- 📧 Email: seu-email@email.com
+- 📧 Email: jairodrigues99@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jairodrigues)
 
 ---
