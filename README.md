@@ -1,16 +1,16 @@
-<div align="center">
+# ⚡ Welcome to my Lab
 
-<!-- Nome animado (digita uma vez e fica estático) -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&repeat=false&lines=Jair+Rodrigues"
-  alt="Jair Rodrigues"
-/>
-
-
-<p>
-  <a href="https://www.linkedin.com/in/jairodrigues/" target="_blank">LinkedIn</a>
-  •
-  <a href="mailto:jairodrigues99@gmail.com">Email</a>
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iYmxhY2siPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSJibGFjazsjMDBmZjk1O2JsYWNrOyNmZjAwZmY7YmxhY2siIGR1cj0iMC4ycyIgYmVnaW49IjBzOyA0cyIgLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0iYmxhY2s7I2ZmZmZmZjtibGFjazsjMDBmZjk1O2JsYWNrIiBkdXI9IjAuMnMiIGJlZ2luPSIycyIgLz4KICA8L3JlY3Q+CiAgPHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iNDUiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDBmZjk1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBvcGFjaXR5PSIwIj4KICAgIENPTi1UUk8tTEUtU0UKICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwLjJzIiAvPgogIDwvdGV4dD4KICA8dGV4dCB4PSI1MCUiIHk9IjU1JSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI1NSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZjAwZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIG9wYWNpdHk9IjAiPgogICAgSkFJUiBST0RSSUdVRVMKICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzE7MSIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIyLjJzIiAvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZm9udC1zaXplIiB2YWx1ZXM9IjUwOzYwOzU1IiBkdXI9IjAuNHMiIGJlZ2luPSIyLjJzIiAvPgogIDwvdGV4dD4KPC9zdmc+" width="800" />
 </p>
 
-</div>
+---
+
+###  Sobre Mim
+
+
+### 📊 My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JairRodrig&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairRodrig&layout=compact&theme=radical" height="180" />
+</p>
